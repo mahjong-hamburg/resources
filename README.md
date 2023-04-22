@@ -1,3 +1,7 @@
+# Tiles cheat sheet
+
+![tiles](./tiles.jpg)
+
 # Rules
 
 Riichi Competition Rules used in EMA[^1] tournaments: http://mahjong-europe.org/portal/index.php?option=com_content&view=article&id=30&Itemid=166
