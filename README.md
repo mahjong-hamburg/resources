@@ -2,6 +2,12 @@
 
 ![tiles](./tiles.jpg)
 
+# Yaku & Scoring cheat sheets
+
+Here is one made by WRC[^3]: https://www.worldriichi.org/player-materials (note that it may differ slightly from the EMA ruleset)
+
+Page 31 of the EMA[^1] rules (linked below) can also be used as a cheat sheet.
+
 # Rules
 
 Riichi Competition Rules used in EMA[^1] tournaments: http://mahjong-europe.org/portal/index.php?option=com_content&view=article&id=30&Itemid=166
@@ -44,3 +50,4 @@ Website: https://osamuko.com/
 
 [^1]: European Mahjong Association (http://mahjong-europe.org/portal/)
 [^2]: United States Professional Mahjong League (https://uspml.com/)
+[^3]: World Riichi Championship (https://www.worldriichi.org/)
