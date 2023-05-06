@@ -44,9 +44,9 @@ Two experienced English-speaking players discussing mahjong and mahjong-related 
 
 Website: https://abema.tv/now-on-air/mahjong
 
-Games with live commentary and other mahjong-related content. It's generally free to watch live, although not all content may be available outside of Japan. A (paid) subscription is generally required to watch past content on demand.
+Games with live commentary and other mahjong-related content. It's generally free to watch live, although not all content may be available outside of Japan (in that case, you'll see `お住いの地方では　ご視聴できません`). A (paid) subscription is generally required to watch past content on demand.
 
-Note: if you see ただいまCM中です, this means that there is an ad break at the moment, but no ads are shown outside of Japan.
+Note: if you see `ただいまCM中です`, this means that there is an ad break at the moment, but no ads are shown outside of Japan.
 
 # Websites about mahjong
 
