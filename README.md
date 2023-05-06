@@ -30,15 +30,25 @@ Website: https://tenhou.net/
 
 A popular server where you can play for free with players around the world, even without creating an account. The default time limit is 5s per turn + 10s per hand. The website is in Japanese, but the apps and the online client have interfaces in English and several other languages.
 
-# Websites about mahjong
+# Watch
 
-## USPML[^2] streams
+## USPML[^2] streams (English)
 
 YouTube: https://www.youtube.com/@uspml
 
 Twitch: https://www.twitch.tv/uspml
 
 Two experienced English-speaking players discussing mahjong and mahjong-related news.
+
+## Abema TV (Japanese)
+
+Website: https://abema.tv/now-on-air/mahjong
+
+Games with live commentary and other mahjong-related content. It's generally free to watch live, although not all content may be available outside of Japan. A (paid) subscription is generally required to watch past content on demand.
+
+Note: if you see ただいまCM中です, this means that there is an ad break at the moment, but no ads are shown outside of Japan.
+
+# Websites about mahjong
 
 ## Riichi.Wiki
 
