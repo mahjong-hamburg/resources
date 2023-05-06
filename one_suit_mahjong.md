@@ -59,6 +59,10 @@ Then the player lists all the tiles that would
 have finished their hand, including the one
 they won on.
 
+If the win is valid, the winner is the dealer in
+the next hand, otherwise the dealer stays the
+same.
+
 ### Verifying a win
 
 To verify if the win is valid, go to
@@ -77,6 +81,11 @@ without the last discard/draw
   - "p" for dots
 
 - "5z"
+
+For example, if the hand is
+![](https://cdn.tenhou.net/2/a/5p.gif)![](https://cdn.tenhou.net/2/a/6p.gif)![](https://cdn.tenhou.net/2/a/7p.gif)![](https://cdn.tenhou.net/2/a/7p.gif)![](https://cdn.tenhou.net/2/a/9p.gif)![](https://cdn.tenhou.net/2/a/9p.gif)![](https://cdn.tenhou.net/2/a/9p.gif),
+won on ![](https://cdn.tenhou.net/2/a/8p.gif),
+type "5677999p5z"
 
 Press OK, and you will see the hand without the
 last discard/draw and with a white dragon.
@@ -100,6 +109,41 @@ list, otherwise the win is not valid.
 Make sure that you understand how each of the
 tiles on that list would complete the hand.
 
-# No tiles left = draw
+### No tiles left = draw
 
-If there 
+If there are no tiles left to be drawn, both
+players show their hands, say what they were
+waiting on, and verify that.
+
+If the dealer was ready, they remain the dealer,
+otherwise the other person becomes the dealer.
+
+## Scoring (optional)
+
+If you want to keep things simple, award one
+point for each valid win.
+
+Alternatively, you can try this (untested)
+scoring system:
+
+- 5 points for a win
+
+- 1 point for each correctly named wait
+
+- 2 points for naming all waits correctly
+
+- -2 points for each incorrectly named wait
+
+- -10 points for an invalid win declaration
+
+## 3-player version
+
+While it would be possible to play with
+3 players when there are 4 or 7 tiles per
+hand, it would probably be simpler to have
+one player sit out.
+
+For example, have the (new) dealer play
+with the player who was sitting out, and
+the player who is not the dealer (anymore)
+sit out.
