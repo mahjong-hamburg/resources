@@ -48,6 +48,10 @@ Website: https://riichi.wiki/
 
 Website: https://osamuko.com/
 
+# 2-player mini-game
+
+Rules: [here](./one_suit_mahjong.md)
+
 [^1]: European Mahjong Association (http://mahjong-europe.org/portal/)
 [^2]: United States Professional Mahjong League (https://uspml.com/)
 [^3]: World Riichi Championship (https://www.worldriichi.org/)
