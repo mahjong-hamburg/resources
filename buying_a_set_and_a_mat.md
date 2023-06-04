@@ -1,6 +1,6 @@
 # Buying a set and a mat
 
-One of the main brands of mahjong tiles in Japan is AMOS (アモス), produced by Taiyo Chemicals (大洋技研株式会社). They currently offer four different sets, two different mats, and a set-and-mat combo. You can see the contents of each set in this video: https://www.youtube.com/watch?v=LUwu27IoCJM .
+One of the main brands of mahjong tiles in Japan is AMOS (アモス), produced by Taiyo Chemicals (大洋技研株式会社). They currently offer four different sets, two different mats, and a set-and-mat combo. You can see the contents of each set in this video: https://www.youtube.com/watch?v=LUwu27IoCJM . There are other producers as well - if it's sold in Japan, it should have everything you need.
 
 If I'm not mistaken, the last World Riichi Championship used Junk Mats and the Amos Masters sets (the same ones I bring to the meetups).
 
@@ -27,6 +27,7 @@ Usually a set would have at least
 - eight 5000-point sticks
 - 36 1000-point sticks
 - 40 100-point sticks (or at least 20 100-point sticks and 4 500-point sticks)
+
 (see the tiles cheat sheet).
 
 The sticks are usually white or off-white, some more expensive sets have sticks with different colours for each value.
@@ -57,13 +58,14 @@ The Amos Junk Mat is pretty much a standard - it's good and it has holders for s
 
 The non-Japanese mahjong sets usually have
 - bigger (and heavier) tiles - most likely too big to fit on a Japanese mat
-- there are no scoring sticks for Japanese mahjong
+- no scoring sticks for Japanese mahjong
 - a different wind marker - usually a 6-sided dice with a round plastic holder
-- the white dragon has a rectangular frame
-- there are no red fives (not used in the EMA or WRC rules, but quite commonly used in Japanese mahjong in general)
+- white dragons with a rectangular frame on them
+- no red fives (not used in the EMA or WRC rules, but quite commonly used in Japanese mahjong in general)
 - flower tiles (not used at all in Japanese mahjong)
 
 They also may come with
+- blank tiles
 - joker tiles
 - racks to hold the tiles (common in American sets) - most players seem to have an allergic reaction to them in Japanese mahjong tournaments in Europe
 - rulers to straighten the tiles - not necessary if you have a mat with a raised edge
