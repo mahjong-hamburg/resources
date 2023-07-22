@@ -1,8 +1,10 @@
-# Tiles cheat sheet
+# Tiles and calls cheat sheet
 
-![tiles](./tiles.jpg)
+![tiles](./tiles_and_calls.jpg)
 
 # Yaku & Scoring cheat sheets
+
+See the `scoring.pdf` file (fold along the long edge after printing). (/!\ currently does not include fu)
 
 Here is one made by WRC[^3]: https://www.worldriichi.org/player-materials (note that it may differ slightly from the EMA ruleset)
 
